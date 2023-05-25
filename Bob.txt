@@ -1,1 +1,2 @@
-Hi, my name is Bob! Reason for this: my haircut! Some more info about me.
+Hi, my name is Bob! Reason: my fancy haircut! Some more info about me.
+Another line of text for training purpose.
